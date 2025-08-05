@@ -1,1 +1,1 @@
-## Snake Game in Java fx
+## Snake Game in Java Swing
